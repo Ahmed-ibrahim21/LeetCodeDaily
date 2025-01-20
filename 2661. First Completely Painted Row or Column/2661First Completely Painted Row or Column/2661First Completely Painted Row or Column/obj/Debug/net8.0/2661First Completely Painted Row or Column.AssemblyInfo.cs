@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2661First Completely Painted Row or Column")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2eb29f12af549910d6c1b36e1b046fd5524d7ebb")]
 [assembly: System.Reflection.AssemblyProductAttribute("2661First Completely Painted Row or Column")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2661First Completely Painted Row or Column")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
