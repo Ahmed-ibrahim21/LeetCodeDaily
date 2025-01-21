@@ -1,0 +1,15 @@
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\bin\Debug\net8.0\2017. Grid Game.exe
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\bin\Debug\net8.0\2017. Grid Game.deps.json
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\bin\Debug\net8.0\2017. Grid Game.runtimeconfig.json
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\bin\Debug\net8.0\2017. Grid Game.dll
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\bin\Debug\net8.0\2017. Grid Game.pdb
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\obj\Debug\net8.0\2017. Grid Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\obj\Debug\net8.0\2017. Grid Game.AssemblyInfoInputs.cache
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\obj\Debug\net8.0\2017. Grid Game.AssemblyInfo.cs
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\obj\Debug\net8.0\2017. Grid Game.csproj.CoreCompileInputs.cache
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\obj\Debug\net8.0\2017. Grid Game.sourcelink.json
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\obj\Debug\net8.0\2017. Grid Game.dll
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\obj\Debug\net8.0\refint\2017. Grid Game.dll
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\obj\Debug\net8.0\2017. Grid Game.pdb
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\obj\Debug\net8.0\2017. Grid Game.genruntimeconfig.cache
+C:\leetcode\LeetCodeDaily\2661. First Completely Painted Row or Column\2017. Grid Game\2017. Grid Game\obj\Debug\net8.0\ref\2017. Grid Game.dll
