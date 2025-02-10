@@ -1,0 +1,15 @@
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\bin\Debug\net8.0\3174. Clear Digits.exe
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\bin\Debug\net8.0\3174. Clear Digits.deps.json
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\bin\Debug\net8.0\3174. Clear Digits.runtimeconfig.json
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\bin\Debug\net8.0\3174. Clear Digits.dll
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\bin\Debug\net8.0\3174. Clear Digits.pdb
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\obj\Debug\net8.0\3174. Clear Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\obj\Debug\net8.0\3174. Clear Digits.AssemblyInfoInputs.cache
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\obj\Debug\net8.0\3174. Clear Digits.AssemblyInfo.cs
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\obj\Debug\net8.0\3174. Clear Digits.csproj.CoreCompileInputs.cache
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\obj\Debug\net8.0\3174. Clear Digits.sourcelink.json
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\obj\Debug\net8.0\3174. Clear Digits.dll
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\obj\Debug\net8.0\refint\3174. Clear Digits.dll
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\obj\Debug\net8.0\3174. Clear Digits.pdb
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\obj\Debug\net8.0\3174. Clear Digits.genruntimeconfig.cache
+C:\leetcode\LeetCodeDaily\3174. Clear Digits\3174. Clear Digits\obj\Debug\net8.0\ref\3174. Clear Digits.dll
