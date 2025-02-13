@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "3066. Minimum Operations to Exceed Threshold Value II/1.0.0": {
+        "runtime": {
+          "3066. Minimum Operations to Exceed Threshold Value II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3066. Minimum Operations to Exceed Threshold Value II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

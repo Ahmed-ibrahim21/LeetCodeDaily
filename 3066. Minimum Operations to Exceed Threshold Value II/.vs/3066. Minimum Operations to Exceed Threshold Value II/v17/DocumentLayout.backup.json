@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\leetcode\\LeetCodeDaily\\3066. Minimum Operations to Exceed Threshold Value II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B367CC5-F8EE-4BAE-A425-DABE23CCF096}|3066. Minimum Operations to Exceed Threshold Value II\\3066. Minimum Operations to Exceed Threshold Value II.csproj|c:\\leetcode\\leetcodedaily\\3066. minimum operations to exceed threshold value ii\\3066. minimum operations to exceed threshold value ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B367CC5-F8EE-4BAE-A425-DABE23CCF096}|3066. Minimum Operations to Exceed Threshold Value II\\3066. Minimum Operations to Exceed Threshold Value II.csproj|solutionrelative:3066. minimum operations to exceed threshold value ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\leetcode\\LeetCodeDaily\\3066. Minimum Operations to Exceed Threshold Value II\\3066. Minimum Operations to Exceed Threshold Value II\\Program.cs",
+              "RelativeDocumentMoniker": "3066. Minimum Operations to Exceed Threshold Value II\\Program.cs",
+              "ToolTip": "C:\\leetcode\\LeetCodeDaily\\3066. Minimum Operations to Exceed Threshold Value II\\3066. Minimum Operations to Exceed Threshold Value II\\Program.cs",
+              "RelativeToolTip": "3066. Minimum Operations to Exceed Threshold Value II\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:39:28.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
